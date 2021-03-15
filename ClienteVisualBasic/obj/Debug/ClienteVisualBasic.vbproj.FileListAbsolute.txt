@@ -1,0 +1,10 @@
+C:\Users\Luis Vizcarra\source\repos\SlnUniversidad\ClienteVisualBasic\bin\Debug\ClienteVisualBasic.exe.config
+C:\Users\Luis Vizcarra\source\repos\SlnUniversidad\ClienteVisualBasic\bin\Debug\ClienteVisualBasic.exe
+C:\Users\Luis Vizcarra\source\repos\SlnUniversidad\ClienteVisualBasic\bin\Debug\ClienteVisualBasic.pdb
+C:\Users\Luis Vizcarra\source\repos\SlnUniversidad\ClienteVisualBasic\bin\Debug\ClienteVisualBasic.xml
+C:\Users\Luis Vizcarra\source\repos\SlnUniversidad\ClienteVisualBasic\obj\Debug\ClienteVisualBasic.Resources.resources
+C:\Users\Luis Vizcarra\source\repos\SlnUniversidad\ClienteVisualBasic\obj\Debug\ClienteVisualBasic.vbproj.GenerateResource.cache
+C:\Users\Luis Vizcarra\source\repos\SlnUniversidad\ClienteVisualBasic\obj\Debug\ClienteVisualBasic.vbproj.CoreCompileInputs.cache
+C:\Users\Luis Vizcarra\source\repos\SlnUniversidad\ClienteVisualBasic\obj\Debug\ClienteVisualBasic.exe
+C:\Users\Luis Vizcarra\source\repos\SlnUniversidad\ClienteVisualBasic\obj\Debug\ClienteVisualBasic.xml
+C:\Users\Luis Vizcarra\source\repos\SlnUniversidad\ClienteVisualBasic\obj\Debug\ClienteVisualBasic.pdb
