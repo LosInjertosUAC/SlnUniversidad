@@ -1,0 +1,5 @@
+C:\Users\Luis Vizcarra\source\repos\SlnUniversidad\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\Luis Vizcarra\source\repos\SlnUniversidad\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\Luis Vizcarra\source\repos\SlnUniversidad\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\Luis Vizcarra\source\repos\SlnUniversidad\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\Luis Vizcarra\source\repos\SlnUniversidad\CapaDato\obj\Debug\CapaDato.pdb
